@@ -11,9 +11,9 @@ from random import randint
 import requests
 
 bot = 'ts'
-api_id = "5118097"
-api_hash = "7154fbfbea65a0727ca70e897cf74dfb"
-bot_token = "1909832912:AAEwzz9rugt7wLmFJKooFSuqIgHL2b0fpxM"
+api_id = ""
+api_hash = ""
+bot_token = ""
 app = Client(
     bot,
     api_id,
